@@ -1,0 +1,20 @@
+/* Color variables */
+// Primary colors
+$color-primary-bg-register: #1c2431;
+$color-primary-bg-main: #181f2a;
+$color-primary-bg-footer: hsl(217, 53%, 9%);
+$color-primary-bg-testimonials: hsl(219, 30%, 18%);
+// Accent colors
+$color-accent-cyan: hsl(176, 68%, 64%);
+$color-accent-blue: hsl(198, 60%, 50%);
+$color-accent-red: hsl(0, 100%, 63%);
+// Neutral colors
+$color-neutral-white: hsl(0, 0%, 100%);
+
+/* Typography variables */
+// Font imports
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700&display=swap');
+// Font variables
+$font-raleway: 'Raleway', sans-serif;
+$font-openSans: 'Open Sans', sans-serif;
